@@ -2,4 +2,4 @@
 # Restaurant Analysis By Zomato
 
 ### - Dashboard
-![alt tag](https://github.com/sahilpatni95/Data-Analytics-Bootcamp/blob/main/Coursathon%20Challenges/Restaurant/Zomato_report.JPG)
+![alt tag](https://github.com/sahilpatni95/iNeuron-Internship-Projects/blob/main/Churn%20Analysis/Capture1.JPG)
