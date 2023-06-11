@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<stocks>
+<stock>
+<name>Indian Oil Corporation Ltd</name>
+<viewNSE>370.00</viewNSE>
+<viewBSE>370.50</viewBSE>
+<previousclose>348.30</previousclose>
+<currentprice>372.00</currentprice>
+</stock>
+
+<stock>
+<name>Videocon Industries</name>
+<viewNSE>158.25</viewNSE>
+<viewBSE>158.10</viewBSE>
+<previousclose>151.05</previousclose>
+<currentprice>157.90</currentprice>
+</stock>
+
+<stock>
+<name>Tata Power Co.</name>
+<viewNSE>76.75</viewNSE>
+<viewBSE>76.70</viewBSE>
+<previousclose>74.35</previousclose>
+<currentprice>76.70</currentprice>
+</stock>
+
+<stock>
+<name>Bharat Petroleum</name>
+<viewNSE>800.70</viewNSE>
+<viewBSE>799.45</viewBSE>
+<previousclose>769.3</previousclose>
+<currentprice>798.55</currentprice>
+</stock>
+ 
+<stock>
+<name>GAIL (India) Ltd</name>
+<viewNSE>388.45</viewNSE>
+<viewBSE>388.25</viewBSE>
+<previousclose>380.05</previousclose>
+<currentprice>388.50</currentprice>
+</stock>
+ 
+</stocks>
