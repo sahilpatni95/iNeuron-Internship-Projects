@@ -1,0 +1,27 @@
+- Maintained large databases and used various professional statistical techniques to collect, analyse, and interpret data from customers and partners.
+- Identified and reported any data issues, conducted detailed weekly reports, and pro-actively participated in team meetings with managers
+- Collaborated with colleagues and executed other duties as assigned by managers.
+
+
+---------
+
+Collaborated with business users, collected requests, and updated the set of existing BI reports to accommodate business needs
+Implemented 3 fully functional data schemes and 10+ data flow optimization processes for reporting performance and enhancements
+Generated and delivered quality reports to customers by conducting quality assurance checks and recorded a 65% increase in customer satisfaction
+Developed 4 reporting systems that provide accessible information for accurate decision making
+
+----------
+
+Improved overall decision-making 25% by designing and developing BI reports and providing invaluable insights
+Comprehend business requirements in a BI context and developed 15+ data models to convert raw data into actionable insights
+Identify 10+ KPIs with outlined objectives and consistently monitor them
+Develop 50+ reports by utilizing knowledge of SQL queries, SQL Server Reporting Services (SSRS), and SQL Server Integration Services (SSIS)
+
+
+-----------
+Hospital Revenue Expenditure Analysis
+
+Collaborated with business users, collected requests, and updated the set of existing BI reports to accommodate business needs.
+Implemented 3 fully functional data schemes and 8+ data flow enhance processes for reporting performance and enhancements.
+Generated and delivered quality reports to customers by conducting quality assurance checks and recorded a 65% increase in customer satisfaction.
+Developed 3 reporting systems that provide accessible information for accurate decision making
